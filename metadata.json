@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestión Académica - Lya Imber de Coronil",
+  "description": "Un sistema de gestión académica para administrar inscripciones, notas, reportes y mantenimiento para la institución Lya Imber de Coronil. Incluye un dashboard con estadísticas, gestión de procesos, reportes y mantenimiento del sistema.",
+  "requestFramePermissions": []
+}
